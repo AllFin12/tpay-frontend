@@ -1,0 +1,202 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@600&display=swap");
+
+.col1 {
+  background-color: #6379f4;
+  background-image: url("/Mask Group.png");
+  padding: 50px 115px;
+}
+.mainRow {
+  padding: 0px;
+}
+.note1 {
+  font-family: "Nunito Sans", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 33px;
+  color: #ffffff;
+}
+.note2 {
+  font-family: "Nunito Sans", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 23px;
+  color: rgba(255, 255, 255, 0.8);
+}
+.col2 {
+  background-color: white;
+  padding: 120px 50px;
+}
+.titleLogin {
+  font-family: "Nunito Sans", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 33px;
+  color: #3a3d42;
+}
+.noteTitle {
+  font-family: "Nunito Sans", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 30px;
+
+  color: rgba(58, 61, 66, 0.6);
+}
+.mainText {
+  font-family: "Nunito Sans", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 29px;
+  line-height: 40px;
+  color: #ffffff;
+}
+.control {
+  margin-top: 97px;
+  margin-bottom: 73px;
+  border: none;
+  border-radius: 0px;
+  border-bottom: 1.5px solid rgba(169, 169, 169, 0.6);
+}
+.control:focus {
+  box-shadow: none;
+}
+.control::placeholder {
+  font-family: "Nunito Sans", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 23px;
+  color: rgba(169, 169, 169, 0.8);
+}
+.control1 {
+  margin-bottom: 73px;
+  border: none;
+  border-radius: 0px;
+  border-bottom: 1.5px solid rgba(169, 169, 169, 0.6);
+}
+.control1:focus {
+  box-shadow: none;
+}
+.control1::placeholder {
+  font-family: "Nunito Sans", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 23px;
+  color: rgba(169, 169, 169, 0.8);
+}
+.control2 {
+  /* margin-bottom: 73px; */
+  border: none;
+  border-radius: 0px;
+  border-bottom: 1.5px solid rgba(169, 169, 169, 0.6);
+  font-family: "Nunito Sans", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 23px;
+  color: rgba(169, 169, 169, 0.8);
+}
+.control2:focus {
+  box-shadow: none;
+}
+.control2::placeholder {
+  font-family: "Nunito Sans", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 23px;
+  color: rgba(169, 169, 169, 0.8);
+}
+
+.forgot {
+  margin-top: 20px;
+  font-family: "Nunito Sans", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 24px;
+  color: rgba(58, 61, 66, 0.8);
+  text-decoration: none !important;
+  cursor: pointer;
+  float: right;
+}
+.btnLogin {
+  margin-top: 90px;
+  width: 100%;
+  height: 57px;
+  background: #dadada !important;
+  box-shadow: 0px 6px 75px rgba(100, 87, 87, 0.05);
+  border-radius: 12px;
+  border: #dadada;
+  font-family: "Nunito Sans", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 25px;
+  text-align: center;
+  color: #88888f !important;
+}
+.btnLoginFill {
+  margin-top: 90px;
+  width: 100%;
+  height: 57px;
+  background: #6379f4;
+  box-shadow: 0px 6px 75px rgba(100, 87, 87, 0.05);
+  border-radius: 12px;
+  border: #6379f4;
+  font-family: "Nunito Sans", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 25px;
+  text-align: center;
+  color: white;
+}
+.toSignUp {
+  margin-top: 40px;
+  font-family: "Nunito Sans", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 23px;
+  text-align: center;
+  color: rgba(58, 61, 66, 0.8);
+}
+.inputPass {
+  background-color: white !important;
+  border: none !important;
+  border-bottom: 1.5px solid rgba(169, 169, 169, 0.6) !important;
+  border-radius: 0px;
+}
+.inputPassEmail {
+  background-color: white !important;
+  border: none !important;
+  border-bottom: 1.5px solid rgba(169, 169, 169, 0.6) !important;
+  border-radius: 0px;
+}
+.inputPassUser {
+  background-color: white !important;
+  border: none !important;
+  border-bottom: 1.5px solid rgba(169, 169, 169, 0.6) !important;
+  border-radius: 0px;
+  margin-top: 103px;
+}
+.rowPin {
+  margin-top: 50px;
+}
+.pin {
+  padding: 20px;
+  background: #ffffff;
+  /* Grey/60% */
+
+  border: 1px solid rgba(169, 169, 169, 0.6);
+  box-sizing: border-box;
+  box-shadow: 0px 10px 75px rgba(147, 147, 147, 0.1);
+  border-radius: 10px;
+}

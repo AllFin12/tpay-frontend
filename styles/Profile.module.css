@@ -1,0 +1,121 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;700&display=swap");
+#file input {
+  display: none !important;
+}
+.cardSearch {
+  padding: 50px 208px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  border: none;
+  background: #ffffff;
+  box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);
+  border-radius: 25px;
+}
+.imgPP {
+  width: 80px;
+  height: 80px;
+  margin: 0 auto;
+}
+.number {
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 25px;
+  color: #6379f4;
+}
+.content {
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 27px;
+  align-items: center;
+  color: #7a7886;
+}
+.mainText {
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 25px;
+  color: #3a3d42;
+  margin-bottom: 56px;
+}
+.rowMain {
+  margin-bottom: 81px;
+}
+.name {
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 32px;
+  text-align: center;
+  color: #4d4b57;
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+.phone {
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 27px;
+  text-align: center;
+  color: #7a7886;
+  margin-bottom: 50px;
+}
+.btn {
+  position: relative;
+  background: #e5e8ed;
+  border-radius: 10px;
+  border: #e5e8ed;
+  padding: 18px 20px;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 28px;
+  color: #4d4b57;
+  margin-bottom: 20px;
+  height: 64px;
+}
+.btn:hover {
+  position: relative;
+  background: #e5e8fa;
+  border-radius: 10px;
+  border: #e5e8fa;
+  padding: 18px 20px;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 28px;
+  color: #4d4b57;
+  margin-bottom: 20px;
+  height: 64px;
+}
+.arrowLeft {
+  position: absolute;
+  width: 50px;
+  height: 28px;
+  right: 200px;
+  top: 310px;
+}
+.arrowLeft1 {
+  position: absolute;
+  width: 50px;
+  height: 28px;
+  right: 200px;
+  top: 395px;
+}
+.arrowLeft2 {
+  position: absolute;
+  width: 50px;
+  height: 28px;
+  right: 200px;
+  top: 480px;
+}

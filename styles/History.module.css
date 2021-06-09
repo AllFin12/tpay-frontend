@@ -1,0 +1,79 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600;700&display=swap");
+
+.main {
+  margin-top: 60px;
+  background: #ffffff;
+  box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);
+  border-radius: 25px;
+  padding: 30px;
+  border: none;
+  margin-bottom: 50px;
+}
+.title {
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 25px;
+  margin-bottom: 30px;
+  color: #3a3d42;
+}
+.week {
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 27px;
+  margin-bottom: 45px;
+  color: #7a7886;
+}
+.cardUser {
+  border: none;
+  margin-bottom: 40px;
+}
+.cardUserEnd {
+  border: none;
+  margin-bottom: 10px;
+}
+.userImg {
+  padding: 10px;
+}
+.name {
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 22px;
+  color: #4d4b57;
+}
+.method {
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 19px;
+  color: #7a7886;
+}
+.infoUser {
+  margin-left: 12px;
+  margin-top: 12px;
+}
+.plus {
+  margin-top: 25px;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 22px;
+  text-align: right;
+  color: #1ec15f;
+}
+.month {
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 27px;
+  color: #7a7886;
+  margin-bottom: 45px;
+}

@@ -1,0 +1,70 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;700&display=swap");
+
+.cardSearch {
+  padding: 30px;
+  margin-top: 50px;
+  border: none;
+  background: #ffffff;
+  box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);
+  border-radius: 25px;
+}
+.title {
+  font-family: "Nunito Sans", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 25px;
+  color: #3a3d42;
+  margin-bottom: 25px;
+}
+.controlSearch {
+  background: rgba(58, 61, 66, 0.1);
+  border-radius: 12px;
+  border: rgba(58, 61, 66, 0.1);
+  height: 54px;
+}
+.controlSearch:focus {
+  background: rgba(58, 61, 66, 0.1);
+  border-radius: 12px;
+  border: rgba(58, 61, 66, 0.1);
+  height: 54px;
+  box-shadow: none;
+}
+.controlSearch::placeholder {
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 23px;
+  color: rgba(58, 61, 66, 0.4);
+}
+.userImg {
+  padding: 10px;
+}
+.name {
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 22px;
+  color: #4d4b57;
+}
+.method {
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 22px;
+  color: #7a7886;
+}
+.infoUser {
+  margin-left: 12px;
+  margin-top: 12px;
+}
+.cardUser {
+  padding: 20px;
+  border: none;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}

@@ -1,0 +1,95 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600&display=swap");
+.titleHead {
+  color: brown;
+}
+.cardLeft {
+  background: #ffffff;
+  box-shadow: 0px 20px 20px rgba(0, 0, 0, 0.1);
+  border-radius: 25px;
+  margin: 35px 0px;
+  border: none;
+  padding: 50px 40px;
+}
+.dashboard {
+  font-family: "Nunito Sans", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 31px;
+  color: rgba(58, 61, 66, 0.8);
+  margin-bottom: 52px;
+}
+.transfer {
+  font-family: "Nunito Sans", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 31px;
+  color: rgba(58, 61, 66, 0.8);
+  margin-bottom: 52px;
+}
+.topup {
+  font-family: "Nunito Sans", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 31px;
+  color: rgba(58, 61, 66, 0.8);
+  margin-bottom: 52px;
+}
+.profile {
+  font-family: "Nunito Sans", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 31px;
+  color: rgba(58, 61, 66, 0.8);
+  margin-bottom: 268px;
+}
+.logout {
+  font-family: "Nunito Sans", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 31px;
+  color: rgba(58, 61, 66, 0.8);
+}
+.logout:hover {
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 31px;
+  color: #6379f4;
+}
+.imgMenu {
+  margin-top: 11px;
+}
+.dashTrue {
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 31px;
+  color: #6379f4;
+  margin-bottom: 52px;
+}
+.dashTrue1 {
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 31px;
+  color: #6379f4;
+  margin-bottom: 268px;
+}
+.rowDash {
+  border-left: #6379f4 5px solid;
+  height: 45px;
+  margin-bottom: 52px;
+}
+.rowDash1 {
+  border-left: #6379f4 5px solid;
+  height: 45px;
+  margin-bottom: 268px;
+}
